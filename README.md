@@ -1,8 +1,13 @@
 Name = Amit Kumar
+
 Company = CODTECH IT SOLUTIONS
+
 ID = CT12DS2094
+
 Domain = JAVA Programming
+
 Duration = August 5th-October 5th
+
 Mentor = Muzammil Ahmed
 
 Overview of the Basic Calculator Project
